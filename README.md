@@ -78,7 +78,7 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prakshwer/Rural-Health-Pipeline)
 &nbsp;
-[![Streamlit App](https://rural-health-pipeline-b7tpkhxc3zuqfqkgxp6grm.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://rural-health-pipeline-b7tpkhxc3zuqfqkgxp6grm.streamlit.app/)
 
 </td>
 </tr>
