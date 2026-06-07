@@ -128,10 +128,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=techguyprakash&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=techguyprakash&icon=4&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![mario](./mario_coder.gif) ![mario](./mario_coder.gif)![mario](./mario_coder.gif)
