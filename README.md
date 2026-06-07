@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Prakash Roy
 
-![header](github_banner_prakash.svg)
+![banner](./github_banner_prakash(1).svg)
 
 
 
