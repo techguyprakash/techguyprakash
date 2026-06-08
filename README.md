@@ -128,4 +128,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![mario](./mario_coder.gif)![mario](./mario_coder.gif)![mario](./mario_coder.gif)
+![mario](./mario_coder.gif)![mario](./mario_coder.gif)![mario](./mario_coder.gif)![mario](./mario_coder.gif)![mario](./mario_coder.gif)
