@@ -111,10 +111,12 @@
 # 📊 GitHub Contribution Graph:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techguyprakash/techguyprakash/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techguyprakash/techguyprakash/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/techguyprakash/techguyprakash/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techguyprakash/techguyprakash/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techguyprakash/techguyprakash/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/techguyprakash/techguyprakash/pacman-output/galaga-contribution-graph.svg">
 </picture>
+
+
 
 
 # 📊 GitHub Stats:
